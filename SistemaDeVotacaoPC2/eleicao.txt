@@ -1,0 +1,7 @@
+Dados da Eleição:
+ Cargo: MELHOR DESENHO ANIMADO
+ Município: GOIANIA
+ UF: GO
+ Zona Eleitoral: 001
+ Seção: 01
+ Turno: 1
